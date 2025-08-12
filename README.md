@@ -42,3 +42,11 @@ Now, let’s compare the batting intent of both teams across different match pha
 The graph reveals a stark contrast in batting intent between Delhi Capitals and Royal Challengers Bengaluru across different match phases. Delhi Capitals showed a clear surge in aggression during the Death Overs, registering a strike rate close to 240, significantly outpacing RCB.
 
 In contrast, RCB were more aggressive in the Powerplay with a strike rate of around 135, while Delhi started more cautiously. Across Middle Overs, Delhi again maintained a higher tempo than RCB, suggesting better momentum-building and acceleration strategies. Overall, DC dominated the later stages, while RCB leaned on early aggression.
+
+## Plot 3
+
+### Boundary % vs Dot Ball % per Batter
+
+Now, let’s analyze each batter’s ability to rotate strike and score boundaries by calculating their Boundary % and Dot Ball %:
+
+<img width="1119" height="511" alt="Screenshot 2025-08-12 at 12 53 43 PM" src="https://github.com/user-attachments/assets/be3fff9f-5ee4-4677-ba3e-6d50c252ca5d" />
