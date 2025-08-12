@@ -54,3 +54,16 @@ Now, let’s analyze each batter’s ability to rotate strike and score boundari
 PD Salt stands out with the most balanced approach: high boundary rate (~39%) and relatively low dot ball %; indicating consistent attacking intent. TH David, despite a strong boundary presence, also has a high dot ball percentage, reflecting a high-risk, high-reward style.
 
 On the contrary, JM Sharma’s intent appears defensive or ineffective, with a dot ball percentage of over 70% and negligible boundaries. Batters like KL Rahul and V Kohli show moderate boundary rates but also face a significant number of dot balls, suggesting a more conservative or accumulative style of play.
+
+## Plot 4
+
+### Over-Wise Run Progression of Top 4 Batters
+
+Now, let’s track how the top 4 run-scorers progressed throughout the innings by analyzing their over-wise scoring patterns:
+
+<img width="1119" height="511" alt="Screenshot 2025-08-12 at 12 56 30 PM" src="https://github.com/user-attachments/assets/0f3659d5-ddb0-4b2a-833e-d6856b0cc4ed" />
+
+PD Salt demonstrated explosive intent upfront, scoring heavily in the first three overs, especially with a 24-run blitz in the 2nd over. KL Rahul adopted a steadier approach, gradually accelerating through the middle overs and peaking with a 22-run over around the 14th. T Stubbs showed late-inning aggression, particularly in overs 14 to 16, aligning with a finisher’s role. TH David made his impact during the death overs (17–19), consistently scoring above 15 runs per over, indicating high-impact finishing intent.
+
+Overall, each batter’s run pattern reflects their strategic roles in the innings.
+
