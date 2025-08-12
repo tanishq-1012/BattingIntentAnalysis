@@ -79,4 +79,20 @@ The early overs (2nd and 3rd) indicate explosive intent, with 35+ runs scored, s
 
 The batting side regained momentum in the death overs (13–19) with consistent scoring around 16–27 runs per over, despite losing wickets in the 14th and 17th, reflecting strong finishing intent while balancing aggression with risk.
 
+## Plot 6
 
+### Batter Profiles Based on Match Performance
+
+Now, let’s build comprehensive performance profiles for each batter, including their strike rate, average, dot ball %, and boundary %:
+
+<img width="899" height="744" alt="Screenshot 2025-08-12 at 1 05 01 PM" src="https://github.com/user-attachments/assets/1d8342e0-a66c-4b1b-924a-a112da10dc3e" />
+
+Here, we started by calculating basic batting stats: total runs, balls faced, and number of dismissals; for each batter. Then, we break down their outcomes into dot balls and boundaries, computing their percentages relative to total deliveries faced. We merged this with the main stats and calculated the batter’s strike rate and batting average.
+
+To maintain statistical significance, we only considered batters who faced at least 10 balls. The resulting batter_profiles dataset gives a well-rounded view of each player’s performance and intent, helping us distinguish between aggressive finishers, anchors, and low-impact players.
+
+So, let’s visualize the performance profiles of the top 4 batters using radar charts to compare strike rate, dot ball %, and boundary %:
+
+The radar charts offer a quick comparative view of batting intent across PD Salt, KL Rahul, T Stubbs, and TH David. PD Salt showcases the most balanced attacking profile, combining a high strike rate, strong boundary %, and moderate dot ball %.
+
+KL Rahul, though maintaining a decent strike rate, relies more on boundaries with relatively higher dot ball involvement, indicating a mixed approach. T Stubbs reflects an explosive style with maximum boundary % and minimal dot balls, ideal for finishing roles. On the other hand, TH David shows a high strike rate but also a high dot ball %, indicating sporadic aggression with a risk of inconsistency.
