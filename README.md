@@ -8,3 +8,13 @@ In modern T20 cricket, especially in high-stakes tournaments like the IPL, under
 We’ll be using ball-by-ball data from a recent IPL match between RCB and DC, which includes details like over number, batter, bowler, runs scored, and wicket events. This rich, granular dataset allows us to analyze batting patterns across different phases of the game.
 
 The scope of our analysis is to understand batting intent: how players approach the game in various situations; by examining strike rates, boundary percentages, dot ball rates, and over-wise performance, ultimately uncovering insights that can influence real-time strategy and decision-making.
+
+## 📂 Dataset
+
+- **Source:** IPL Match Deliveries CSV
+- **File:** `ipl_match_1473461_deliveries.csv`
+- **Key Columns Used:** `batter`, `team`, `over`, `runs_batter`, `player_out`
+
+<img width="1149" height="398" alt="Screenshot 2025-08-12 at 12 42 05 PM" src="https://github.com/user-attachments/assets/73915b66-58d8-46ec-b80c-ca3fdc029783" />
+
+<img width="1149" height="231" alt="Screenshot 2025-08-12 at 12 42 21 PM" src="https://github.com/user-attachments/assets/eac88444-e9ae-4774-b4c3-3afe4cf83b09" />
