@@ -153,3 +153,17 @@ So, by examining strike rates, boundary and dot ball percentages, over-wise run 
 4. Analyze team strategies in different game stages.
 
 5. Build radar profiles for top batters using normalized metrics.
+
+📌 Use Cases
+
+1. Match summaries for IPL analysts
+
+2. Data-driven player performance insights
+
+3. Strategy formulation for T20 format
+
+4. Training data for predictive modeling in cricket analytics
+
+## 👨‍💻 Author
+Tanishq Sharma
+
