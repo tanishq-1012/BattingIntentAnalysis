@@ -67,3 +67,16 @@ PD Salt demonstrated explosive intent upfront, scoring heavily in the first thre
 
 Overall, each batter’s run pattern reflects their strategic roles in the innings.
 
+## Plot 5
+
+### Correlating Batting Tempo with Wicket Falls
+
+Now, let’s compare how runs and wickets fluctuated over each over to understand momentum shifts during the innings:
+
+<img width="1119" height="511" alt="Screenshot 2025-08-12 at 1 00 08 PM" src="https://github.com/user-attachments/assets/2ae4a84c-3fb4-419f-9678-60bcb6f493c4" />
+
+The early overs (2nd and 3rd) indicate explosive intent, with 35+ runs scored, suggesting aggressive Powerplay batting. However, this high-risk approach also led to early wickets, as seen in the 1st and 4th overs. The middle overs (7–10) show fluctuating intent with moderate scoring and occasional wicket losses, indicating a cautious rebuild phase.
+
+The batting side regained momentum in the death overs (13–19) with consistent scoring around 16–27 runs per over, despite losing wickets in the 14th and 17th, reflecting strong finishing intent while balancing aggression with risk.
+
+
