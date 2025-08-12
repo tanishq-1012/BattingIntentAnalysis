@@ -140,3 +140,16 @@ Radar chart showing normalized comparison of:
 - Dot Ball %
 - Boundary %
 
+## Summary
+
+So, by examining strike rates, boundary and dot ball percentages, over-wise run patterns, and wicket impacts, we decoded how each player approached different match phases. From aggressive Powerplay openers like PD Salt to high-impact finishers like T Stubbs and TH David, and steady anchors like KL Rahul, the data revealed distinct batting styles.
+
+1. Understand batting approach based on strike rate by phase.
+
+2. Compare boundary and dot ball percentages across batters.
+
+3. Track run progression over overs.
+
+4. Analyze team strategies in different game stages.
+
+5. Build radar profiles for top batters using normalized metrics.
