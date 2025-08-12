@@ -50,3 +50,7 @@ In contrast, RCB were more aggressive in the Powerplay with a strike rate of aro
 Now, let’s analyze each batter’s ability to rotate strike and score boundaries by calculating their Boundary % and Dot Ball %:
 
 <img width="1119" height="511" alt="Screenshot 2025-08-12 at 12 53 43 PM" src="https://github.com/user-attachments/assets/be3fff9f-5ee4-4677-ba3e-6d50c252ca5d" />
+
+PD Salt stands out with the most balanced approach: high boundary rate (~39%) and relatively low dot ball %; indicating consistent attacking intent. TH David, despite a strong boundary presence, also has a high dot ball percentage, reflecting a high-risk, high-reward style.
+
+On the contrary, JM Sharma’s intent appears defensive or ineffective, with a dot ball percentage of over 70% and negligible boundaries. Batters like KL Rahul and V Kohli show moderate boundary rates but also face a significant number of dot balls, suggesting a more conservative or accumulative style of play.
