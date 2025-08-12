@@ -96,3 +96,49 @@ So, let’s visualize the performance profiles of the top 4 batters using radar 
 The radar charts offer a quick comparative view of batting intent across PD Salt, KL Rahul, T Stubbs, and TH David. PD Salt showcases the most balanced attacking profile, combining a high strike rate, strong boundary %, and moderate dot ball %.
 
 KL Rahul, though maintaining a decent strike rate, relies more on boundaries with relatively higher dot ball involvement, indicating a mixed approach. T Stubbs reflects an explosive style with maximum boundary % and minimal dot balls, ideal for finishing roles. On the other hand, TH David shows a high strike rate but also a high dot ball %, indicating sporadic aggression with a risk of inconsistency.
+
+## 📊 Key Features
+
+### 1. Game Phase Classification
+Each ball is tagged with a match phase:
+- **Powerplay (0–5 overs)**
+- **Middle Overs (6–14 overs)**
+- **Death Overs (15–20 overs)**
+
+---
+
+### 2. Batter Strike Rate by Phase
+Visualizes how individual batters adapt their intent (strike rate) across different match phases.
+
+![Strike Rate by Phase](preview_strike_rate_by_phase.png)
+
+---
+
+### 3. Team-Wise Intent Across Phases
+Compares team-level strike rates in each game phase.
+
+![Team-wise Intent](preview_team_wise_intent.png)
+
+---
+
+### 4. Boundary % vs Dot Ball %
+Bar chart comparison of batters based on how frequently they hit boundaries vs play dot balls.
+
+---
+
+### 5. Over-wise Run Progression
+Shows how top-performing batters build their innings over time.
+
+---
+
+### 6. Over-wise Runs vs Wickets
+Dual-axis chart showing how scoring rate correlates with wicket loss per over.
+
+---
+
+### 7. Batter Profile Radar Chart
+Radar chart showing normalized comparison of:
+- Strike Rate
+- Dot Ball %
+- Boundary %
+
