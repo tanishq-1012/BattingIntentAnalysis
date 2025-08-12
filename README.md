@@ -110,14 +110,12 @@ Each ball is tagged with a match phase:
 ### 2. Batter Strike Rate by Phase
 Visualizes how individual batters adapt their intent (strike rate) across different match phases.
 
-![Strike Rate by Phase](preview_strike_rate_by_phase.png)
 
 ---
 
 ### 3. Team-Wise Intent Across Phases
 Compares team-level strike rates in each game phase.
 
-![Team-wise Intent](preview_team_wise_intent.png)
 
 ---
 
