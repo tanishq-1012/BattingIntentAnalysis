@@ -18,3 +18,9 @@ The scope of our analysis is to understand batting intent: how players approach 
 <img width="1149" height="398" alt="Screenshot 2025-08-12 at 12 42 05 PM" src="https://github.com/user-attachments/assets/73915b66-58d8-46ec-b80c-ca3fdc029783" />
 
 <img width="1149" height="231" alt="Screenshot 2025-08-12 at 12 42 21 PM" src="https://github.com/user-attachments/assets/eac88444-e9ae-4774-b4c3-3afe4cf83b09" />
+
+let’s categorize each delivery into match phases: Powerplay, Middle Overs, and Death Overs; based on the over number:
+
+<img width="717" height="367" alt="Screenshot 2025-08-12 at 12 47 08 PM" src="https://github.com/user-attachments/assets/5276944b-4fb2-4e52-aa3f-9c27c8ad79ec" />
+
+Here, we defined a function get_phase() that assigns a phase label based on the over number: overs 0 to 5 as Powerplay, 6 to 14 as Middle Overs, and 15 onwards as Death Overs. Then, we applied this function to the over column to create a new phase column in the dataset.
